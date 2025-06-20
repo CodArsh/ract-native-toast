@@ -1,0 +1,45 @@
+{
+  "name": "@arsil_malek/react-native-toast",
+  "version": "1.0.0",
+  "description": "A beautiful and modern animated toast notification component for React Native.",
+  "main": "dist/index.js",
+  "types": "dist/types/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "dist",
+    "ToastIcons",
+    "README.md"
+  ],
+  "keywords": [
+    "react-native",
+    "toast",
+    "notification",
+    "ui",
+    "react-native-component",
+    "soft-toast",
+    "animated-toast",
+    "modern-ui"
+  ],
+  "author": "Arsil Malek",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodArsh/Soft-Toast"
+  },
+  "bugs": {
+    "url": "https://github.com/CodArsh/Soft-Toast/issues"
+  },
+  "homepage": "https://github.com/CodArsh/Soft-Toast#readme",
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-native": ">=0.68.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
