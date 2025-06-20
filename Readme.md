@@ -3,7 +3,7 @@
 A customizable, animated, and modern toast notification component for React Native.  
 Designed for simplicity, beauty, and flexibility.
 
-![Toast Demo](https://github.com/CodArsh/@arsil_malek/react-native-toast/blob/main/demo.gif)
+![Toast Demo](https://github.com/CodArsh/ract-native-toast/blob/master/assets/FINAL.gif)
 
 ---
 
@@ -28,7 +28,7 @@ npm install @arsil_malek/react-native-toast
 yarn add @arsil_malek/react-native-toast
 ```
 
-# ⚙️ Usage
+## ⚙️ Usage
 
 
 ```
@@ -65,7 +65,6 @@ Toast.show({
 
 ---
 
-# ✏️ Props
 ## ✏️ Props
 
 | Prop         | Type       | Default     | Description                                                                 |
@@ -80,9 +79,10 @@ Toast.show({
 | `onClose`    | `function` | —           | Callback when toast closes                                                  |
 
 
+---
 
-# 🤝 Contribution
+## 🤝 Contribution
 Pull requests are welcome. Feel free to open issues or suggest features.
 
-# 📄 License 
+## 📄 License 
 MIT ©2025 Arsil Malek
