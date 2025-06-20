@@ -1,6 +1,6 @@
 {
   "name": "@arsil_malek/react-native-toast",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A beautiful and modern animated toast notification component for React Native.",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",
@@ -29,9 +29,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CodArsh/ract-native-toast"
+    "url": "https://github.com/CodArsh/react-native-toast"
   },
-  "homepage": "https://github.com/CodArsh/ract-native-toast#readme",
+  "homepage": "https://github.com/CodArsh/react-native-toast#readme",
   "peerDependencies": {
     "react": ">=17.0.0",
     "react-native": ">=0.68.0"

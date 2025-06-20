@@ -3,7 +3,7 @@
 A customizable, animated, and modern toast notification component for React Native.  
 Designed for simplicity, beauty, and flexibility.
 
-![Toast Demo](https://github.com/CodArsh/ract-native-toast/blob/master/assets/FINAL.gif)
+![Toast Demo](https://github.com/CodArsh/react-native-toast/blob/master/assets/FINAL.gif)
 
 ---
 
