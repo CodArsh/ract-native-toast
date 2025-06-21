@@ -1,6 +1,6 @@
 {
   "name": "@arsil_malek/react-native-toast",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A beautiful and modern animated toast notification component for React Native.",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",

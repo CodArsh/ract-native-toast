@@ -31,7 +31,7 @@ yarn add @arsil_malek/react-native-toast
 ## ⚙️ Usage
 
 
-```
+```tsx
 1. Add ToastContainer in your root App component (App.tsx)
 
 import React from 'react';
